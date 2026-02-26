@@ -2,7 +2,7 @@ Nhạc năm mới, pháo nổ
 
 ## Test
 
-https://raw.githack.com/tranchausky/am-thanh/main/nam-moi/index.html
+https://raw.githack.com/tranchausky/am-thanh/main/nam-moi/index.html    
 https://rawcdn.githack.com/tranchausky/am-thanh/78dbfa075f32bad607c93e6f2f57cef1e3234ec4/nam-moi/index.html  (cdn)
 
 ```
