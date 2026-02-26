@@ -3,7 +3,7 @@ Nhạc năm mới, pháo nổ
 ## Test
 
 https://raw.githack.com/tranchausky/am-thanh/main/nam-moi/index.html    
-https://rawcdn.githack.com/tranchausky/am-thanh/505611640f21c8d5af110464037441a3d99f8303/nam-moi/index.html  (cdn)
+https://rawcdn.githack.com/tranchausky/am-thanh/841a8c49da4b0b60e03acfbbfa9b1052928a8ded/nam-moi/index.html  (cdn version)
 
 ```
 1-freesound_community-firework-show-short-64657.mp3
