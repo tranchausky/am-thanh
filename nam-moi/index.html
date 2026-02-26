@@ -61,7 +61,7 @@ files.forEach((file, index) => {
   ul.innerHTML += `
     <li style="margin-bottom:15px;">
       ${index + 1}. ${file}<br>
-      <audio controls>
+      <audio controls preload="none">
         <source src="${file}" type="audio/mpeg">
       </audio>
     </li>
